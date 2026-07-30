@@ -31,8 +31,6 @@ If you are interested in reporting/fixing issues and contributing directly to th
 
 ---
 
----
-
 ## Support
 
 If you run into any issues or have questions, please check our [SUPPORT.md](SUPPORT.md) file for guidance, or reach out through one of our community channels below.
