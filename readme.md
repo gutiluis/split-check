@@ -5,11 +5,12 @@
 
 ---
 
-## How it Works:
+## How it Works
+
 ```
 git clone https://github.com/gutiluis/split-check.git
 cd split-check
-python3
+python3 check_please.py
 ```
 
 ---
