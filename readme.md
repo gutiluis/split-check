@@ -1,7 +1,9 @@
 >[!WARNING]
 >CURRENTLY UNDER DEVELOPMENT
 
-# Split check APP
+# Split check in Python
+
+CLI
 
 ---
 
